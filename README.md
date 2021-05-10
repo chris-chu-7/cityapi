@@ -8,47 +8,20 @@ Practiced Using FastAPI Requests for the TOHacks Hackathon.
 
 
 
-
-
 <b><u> HOW I DID IT </u></b>
 
-⚛️Utilized <b>React JS</b> for the Frontend.
+⚛️Utilized <b> FASTAPI </b> for the city backend POST, GET, and DELETE requests.
 
-
-🔥Utilized <b>Firebase</b> for user authentication, logging in, logging out, and hosting the webpage
-
-
-Utilized <b> materialui components library </b> for the slider. 
-
-
-Utilized <b> materialui components library </b> for the slider. 
-
-
-☁️Utilized <b> Google Cloud </b> for storing the website. 
 
 
 
 <b><u>FEATURES</u></b>
 
-
-Login/Logout
-
-
-
-Expand window when Hover
+POST, GET, DELETE, get the time zone of a city and the time. 
 
 
 
-SlideShow on top of page
+<b><u> VIDEO BASED ON: </u></b>
 
 
-
-🎥Detail Page with movies, button, and description. 
-
-
-
-
-<b><u> VIDEO DEMO: </u></b>
-
-
-[![LINK TO VIDEO](https://img.youtube.com/vi/bpXGvAG4-HI/0.jpg)](https://www.youtube.com/watch?v=bpXGvAG4-HI)
+[![LINK TO VIDEO](https://img.youtube.com/vi/kCggyi_7pHg/0.jpg)](https://www.youtube.com/watch?v=kCggyi_7pHg)
